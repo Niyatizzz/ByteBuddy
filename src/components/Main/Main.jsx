@@ -18,7 +18,7 @@ const Main = () => {
         {!showResult
         ?<>
         <div className="greet">
-          <p><span>Hello, Niyati</span></p>
+          <p><span>Hello there!</span></p>
           <p>How can I help you today?</p>
         </div>
         <div className="cards">
@@ -69,7 +69,7 @@ const Main = () => {
             </div>
           </div>
           <p className='bottom-info'>
-          Gemini may display inaccurate info, including about people, so double-check its responses. Your privacy & Gemini Apps
+          ByteBuddy may display inaccurate info, including about people, so double-check its responses. Your privacy & Gemini Apps
           </p>
         </div>
       </div>
